@@ -1,6 +1,9 @@
 ;;; herdr-core-test.el --- Tests for herdr-core -*- lexical-binding: t; -*-
 
-;; Copyright (C) 2025 The herdr-core.el authors
+;; Copyright (C) 2026 The herdr-core.el authors
+
+;; Author: herdr-core.el contributors
+;; License: GPL-3.0-or-later
 
 ;; This file is not part of GNU Emacs.
 
@@ -8,6 +11,14 @@
 ;; it under the terms of the GNU General Public License as published by the
 ;; Free Software Foundation, either version 3 of the License, or (at your
 ;; option) any later version.
+;;
+;; herdr-core-test.el is distributed in the hope that it will be useful, but
+;; WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
+;; or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License
+;; for more details.
+;;
+;; You should have received a copy of the GNU General Public License along with
+;; herdr-core-test.el.  If not, see <https://www.gnu.org/licenses/>.
 
 ;;; Commentary:
 

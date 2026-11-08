@@ -1,6 +1,6 @@
 ;;; herdr-core-attach.el --- Real terminals for herdr-core -*- lexical-binding: t; -*-
 
-;; Copyright (C) 2025 The herdr-core.el authors
+;; Copyright (C) 2026 The herdr-core.el authors
 
 ;; Author: herdr-core.el contributors
 ;; Version: 0.1.0
