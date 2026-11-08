@@ -8,7 +8,7 @@ Caveat emptor: vibecoded, but works fine for me.
 
 ```elisp
 (use-package herdr-core
-  :vc (:url "https://github.com/moneylobster/herdr-core"
+  :vc (:url "https://github.com/moneylobster/herdr-core-el"
        :rev :newest))
 ```
 
