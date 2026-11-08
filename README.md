@@ -2,6 +2,8 @@
 
 An Emacs client for [herdr-core](https://github.com/herdrdev/herdr-core). Needs ghostel or vterm installed.
 
+Caveat emptor: vibecoded, but works fine for me.
+
 ## Config
 
 ```elisp
